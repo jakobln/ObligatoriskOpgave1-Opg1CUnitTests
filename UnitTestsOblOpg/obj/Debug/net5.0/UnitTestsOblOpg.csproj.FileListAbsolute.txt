@@ -1,0 +1,12 @@
+C:\Code\1PROG3SEM\UnitTestsOblOpg\bin\Debug\net5.0\UnitTestsOblOpg.deps.json
+C:\Code\1PROG3SEM\UnitTestsOblOpg\bin\Debug\net5.0\UnitTestsOblOpg.dll
+C:\Code\1PROG3SEM\UnitTestsOblOpg\bin\Debug\net5.0\ref\UnitTestsOblOpg.dll
+C:\Code\1PROG3SEM\UnitTestsOblOpg\bin\Debug\net5.0\UnitTestsOblOpg.pdb
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.csproj.AssemblyReference.cache
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.AssemblyInfoInputs.cache
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.AssemblyInfo.cs
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.csproj.CoreCompileInputs.cache
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.dll
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\ref\UnitTestsOblOpg.dll
+C:\Code\1PROG3SEM\UnitTestsOblOpg\obj\Debug\net5.0\UnitTestsOblOpg.pdb
